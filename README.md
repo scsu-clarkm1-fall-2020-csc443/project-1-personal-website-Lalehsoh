@@ -1,46 +1,47 @@
-# Personal Website
+# Site Plan - oceangutter.com
 
-Plan, design, and develop a website for personal or professional purposes.
+### Overview
+The aim of oceangutter.com is to establish a website for gutter service, which will showcase all services the ocean gutter company do.
+It is important for his bussiness to has the website because people can easy find him in onlin and findout about ocean gutter services. 
+It will consist of several pages of content describing his services and information about ocean gutter company.
 
-## Objectives
-* Engage in lifecyle of software planning, design, and implementation.
-* Develop a static website
-* Utilize a CSS framework to ease development
+## Goals
+The primary goals of the site and corresponding objectives are given below.
+* Increase customers.
+* Increase the likelihood of getting big projects
+* Increase referals from professional social networking sites.
+* Maximize user session duration and page views.
 
-## Instructions
-In this project, you are to implement a static website for a personal or professional purpose. The process and deliverables for this project will be phased as follows ...
+### Promote Professional Social Profiles
+* Increase referring trafic from this site to social sites.
 
-### Plan
-Your website must exist for one or more practical purposes. First create a planning document which details the goals and objectives of your website. The planning document can be written in any format (I recommend markdown) and should contain the following sections:
+### Minimize Irrelevant Employment Opportunities
+* Decrease rate of requests not related their services.
 
-1. Overiew - Describe the practical purpose that this site will address and some basic details of the site (such as number of pages, dynamic/static, responsive, etc.).
-2. Goals - Describe the main goals of the site along with objectives that describe how the site will reach that goal.
-3. Target Users - Describe several user personas that will utilize your site.
-4. Content - Summarize the content of your site on a per-page basis as well as any non-page elements which deserve mention.
-5. Similar Sites - Find several relevant sites for inspiration and detail them here.
+## Target Users
+There are two user categories that are expected to make up the bulk of traffic to oceangutter.com.
 
-Inlcude all the planning documents in your repository in a directory named `/plan'. Make sure to get instructor approval before moving onto design.
+### Local customer 
 
-### Design
-Design the look and feel of your webiste. The following artifacts should be included ...
+### Local Companies
 
-* Wireframes for each page.
-* Site map to illustrate navigation of site.
-* Sample of main site colors and description of each.
+## Content
+### Home
+Most visitors will land on this page when arriving at the site. So, it must gave visitors all important informations which attracts customers like warranty, protection and list of services. 
 
-You should organize these components into one design document and include the document and any images, etc. in your repository under a folder named `/design`. Make sure to get instructor approval before moving onto develop.
+### Gutter Installation
+Some information about what is gutter installation and what they do for customer.
 
-### Develop
-Once you are satisfied and have received approval of your plan and design, it is time to implement the site. Continue development until you are satisfied that you have met your stated objectives and the requirements of the project. Ensure that you publish your site publicly.
+### Gutter Cleaning
+Some information about what is gutter cleaning and what they do for customer.
 
-## Requirements
-Your final site should adhere to the following requirements ...
+### Contact Information
+Contact information will always be in area of the site where it is always visible. A contact form will also be accessible from this area.
 
-* Site must contain at least 4 HTML pages and at least 1 custom CSS file.
-* Site must use Twitter Bootstrap for the majority of your base CSS, including using the grid for layout.
-* You must utilize at least 5 Bootstrap components in your implementation.
-* Utilize FontAwesome icons in your implementation.
-* Design should be mobil-friendly and responsive.
-* JavaScript may be utilized but is not required.
+## Similar Sites
 
-All documenation provided as part of the planning and design processes should be neat, professional and well thought out.
+###Gutter Armorct
+* img/Screen Shot 2020-09-29 at 20.05.01.png
+
+###CT Gutter Pro
+*img/Screen Shot 2020-09-29 at 20.14.52.png
