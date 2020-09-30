@@ -40,8 +40,8 @@ Contact information will always be in area of the site where it is always visibl
 
 ## Similar Sites
 
-###Gutter Armorct
-* ![](img/Screen Shot 2020-09-29 at 20.05.01.png)
+###Gutter Armor CT
+![](img/Screen Shot 2020-09-29 at 20.05.01.png)
 
 ###CT Gutter Pro
-* ![](img/Screen Shot 2020-09-29 at 20.14.52.png)
+![](img/Screen Shot 2020-09-29 at 20.14.52.png)
