@@ -7,7 +7,7 @@ You can see wireframes for all pages here:
 ### Site map to illustrate navigation of site
 Ocean gutter site map:
 
-![](img/sitemap.png)
+![](sitemap.png)
 
 ### Sample of main site colors 
 I will use bg-blue-light for my main backgriund color because of name of site.
