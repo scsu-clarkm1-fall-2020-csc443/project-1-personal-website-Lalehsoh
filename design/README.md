@@ -14,4 +14,4 @@ I will use bg-blue-light for my main backgriund color because of name of site.
 
 #f1f8ff, $bg-blue-light
 
-For text I will use text-gray-dark
+For text I will use text-gray-dark because it will be clear on background and everybody can read it.
