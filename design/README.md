@@ -2,7 +2,7 @@
 
 ### Wireframes for each page
 You can see wireframes for all pages here:
-<Oceangutter.com.vpp://wireframe/vayT5K6AURn2jQaw/0hI75K6AURn2jQi8>
+## <img src="img/w.png" width="800" height="400" />
 
 ### Site map to illustrate navigation of site
 Ocean gutter site map:
