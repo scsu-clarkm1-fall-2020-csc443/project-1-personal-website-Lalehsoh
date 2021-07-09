@@ -1,0 +1,26 @@
+// Override Bootstrap variables here
+$body-bg: #f1f8ff;
+
+
+$theme-colors:
+  (
+    "primary":#f1f8ff,
+    "nice": #F26d21,
+    "foot":#BEDFFF
+
+  );
+
+// Include Bootstrap SASS here. This will allow our overrides to take effect.
+@import '~bootstrap/scss/bootstrap';
+
+// regular styles here
+.my-heading {
+    background: theme-color("primary");
+    
+    color: #0B86FF;
+    
+}
+.my-footer {
+  background: theme-color("foot");
+  padding-top: 25px;
+}

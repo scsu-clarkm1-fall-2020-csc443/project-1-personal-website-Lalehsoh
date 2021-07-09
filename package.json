@@ -1,0 +1,40 @@
+{
+  "name": "project-1-personal-website-lalehsoh",
+  "version": "1.0.0",
+  "description": "Plan, design, and develop a website for personal or professional purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scsu-clarkm1-fall-2020-csc443/project-1-personal-website-Lalehsoh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scsu-clarkm1-fall-2020-csc443/project-1-personal-website-Lalehsoh/issues"
+  },
+  "homepage": "https://github.com/scsu-clarkm1-fall-2020-csc443/project-1-personal-website-Lalehsoh#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "bootstrap": "^4.5.3",
+    "css-loader": "^4.3.0",
+    "exports-loader": "^1.1.1",
+    "jquery": "^3.5.1",
+    "mini-css-extract-plugin": "^1.2.0",
+    "node-sass": "^4.14.1",
+    "popper.js": "^1.16.1",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^10.0.4",
+    "style-loader": "^2.0.0",
+    "watch": "^1.0.2",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
